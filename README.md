@@ -4,5 +4,5 @@
 - 👀 I’m interested in Cloud Developement and Machine Learning.
 - 👨🏻‍💻 I’m currently working on providing efficient cloud native solutions.
 - 🚀 Working on Web 3.0 and Machine Learning
-- 📫 I'm available at mail.lokesh.vijaya@gmail.com or hello@lokeshrajendran.com.
+- 📫 I'm available at hello@lokeshrajendran.com.
 
